@@ -3,9 +3,6 @@ const client = new Discord.Client();
 
 console.log("BOT ONLINE");
 
-
-
-
 client.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
