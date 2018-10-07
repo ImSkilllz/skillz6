@@ -7,7 +7,7 @@ console.log("BOT ONLINE");
 
 
 client.on('message', message => {
-if (message.content === '!spam') {
+if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -20,4 +20,4 @@ if (message.content === '!spam') {
       }
 });
 
-client.login("NDk3ODQ2ODIxODg4OTgzMDUw.DplICA.Jow-FbtSca34gIFK38W3uzGPwic");
+client.login("NDc0NTMyNDQ3MDY1OTk3MzEy.DpvY5Q.RiVV-GQLa65q0g-rTIV8EblwmD0");
