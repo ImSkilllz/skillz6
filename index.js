@@ -9,7 +9,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send('سبام ي ولد يلعن ام الفلة')
+        message.channel.send('<@474172469566111745> سبام ي ولد يلعن ام الفلة')
           .then(m => {
             count++;
           })
