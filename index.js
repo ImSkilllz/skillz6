@@ -9,7 +9,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send('<@344222566711427072> سبام ي ولد يلعن ام الفلة')
+        message.channel.send('<@474172469566111745> هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه')
           .then(m => {
             count++;
           })
@@ -18,4 +18,4 @@ if (message.content === '$spam') {
       }
 });
 
-client.login("NDc0MzA1Njk4Nzg4ODAyNTcx.DqIqXw.16W5VhPmwVj3Hzru57qObreC_84");
+client.login("NDc0MzAxNzU0OTgxNDgyNDk2.DqJU-A.jMeZigIPW1nPYQF68cVUFVw9-TQ");
