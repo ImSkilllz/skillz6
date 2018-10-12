@@ -18,5 +18,4 @@ if (message.content === '!spam') {
       }
 });
 
-client.login("NDc0MzA1Njk4Nzg4ODAyNTcx.DqIqXw.16W5VhPmwVj3Hzru57qObreC_84",
-             "NDc0MzA3NzgzMjk0OTc2MDAw.DqJFBQ.8KXtQ4yih1E4NlOJVsQYCGmICG4");
+client.login("NDc0MzA1Njk4Nzg4ODAyNTcx.DqIqXw.16W5VhPmwVj3Hzru57qObreC_84");
