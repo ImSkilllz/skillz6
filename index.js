@@ -18,4 +18,4 @@ if (message.content === '$s') {
       }
 });
 
-client.login("NDc4NTMxNzAyMjY0OTU0ODgx.DqPLoA.Pn_UmRhjN_63fA-uTr2VGoWft8c");
+client.login("NDc0MzA1Njk4Nzg4ODAyNTcx.DqIqXw.16W5VhPmwVj3Hzru57qObreC_84");
