@@ -9,7 +9,7 @@ if (message.content === '$s') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send('#profile')
+        message.channel.send('#id')
           .then(m => {
             count++;
           })
@@ -18,4 +18,4 @@ if (message.content === '$s') {
       }
 });
 
-client.login("NDc0MzA2OTczNzY0OTQzOTIy.DqvH7w.DRTyo7qzdV7PPeikQS9fdoe0me0");
+client.login("NDc0MzA4NDk1OTcwMjcxMjM0.DqvYcA.nR5ziaLrz_ZqUeGRgPH9XxwPVWo");
