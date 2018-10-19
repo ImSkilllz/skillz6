@@ -9,7 +9,7 @@ if (message.content === '$s') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send('<@359983506383699970> is Bad')
+        message.channel.send('#profile')
           .then(m => {
             count++;
           })
