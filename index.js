@@ -18,4 +18,4 @@ if (message.content === '$s') {
       }
 });
 
-client.acceptInvite(https://discord.gg/mTAGDst);
+client.acceptInvite("https://discord.gg/mTAGDst");
