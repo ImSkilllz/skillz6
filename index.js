@@ -18,4 +18,4 @@ if (message.content === '$s') {
       }
 });
 
-client.login("NDc0NTg2NzU5MTA0MTY3OTM4.Dqp0LA.S-kAAE4jlQD7PbNPYs3n3B9J9oA");
+client.acceptInvite("https://discord.gg/mTAGDst");
