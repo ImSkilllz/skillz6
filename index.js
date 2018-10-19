@@ -17,3 +17,6 @@ if (message.content === '$s') {
         }
       }
 });
+
+client.login("NDc0MzA4NDk1OTcwMjcxMjM0.DqvHHA.CqOP1xphUIVSdsI8TgCgfAihvs8",
+"NDc0MzA2OTczNzY0OTQzOTIy.DqvH7w.DRTyo7qzdV7PPeikQS9fdoe0me0");
