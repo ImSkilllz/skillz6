@@ -1,4 +1,4 @@
-const tokenfile = require("./token.json")
+const tokenfile = require("./token.json");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
