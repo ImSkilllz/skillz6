@@ -18,3 +18,6 @@ if (message.content === '!spam') {
         }
       }
 });
+
+
+cleint.login("NDc0ODg3MjE5Mzc5ODMwNzk1.DrcX2w.wm39DU3WcdBEPhhlNGbe9qLC_uE")
