@@ -12,7 +12,7 @@ if (message.content === '!spam') {
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
         hook.send('fuck!');
-          .then(m => {
+          then(m => {
             count++;
           })
 
