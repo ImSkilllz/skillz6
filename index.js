@@ -1,82 +1,28 @@
 const Discord = require("discord.js");
-const client = new Discord.Client();
-const hook = new Discord.WebhookClient('506090110509514752', 'tr8hhuUeYD3sAQnwkhcMQgWuvEH-XBO5pP4PuJukkoQGy2z9EiSW9zyX5MPwIlxc-rzl');
+const bot = new Discord.Client();
+const ID = '359983506383699970';
 
 console.log("BOT ONLINE");
 
 
+bot.on('message', message => {
 
- hook.send('@everyone');
-          
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
-hook.send('@everyone')
+    
+if (!ID.includes(message.author.id)) return;
+
+if (message.content === 'spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send('k')
+          .then(m => {
+            count++;
+          })
+
+        }
+      }
+});
+
+
+
+bot.login("NDc0ODg1MzMxMzUxNzY0OTkz.DsXzmw.-W6joRC1zeHNh-o5x6k_yOnXmDs");
