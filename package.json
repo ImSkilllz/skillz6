@@ -1,0 +1,15 @@
+{
+  "name": "spam",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t",
+  "license": "ISC"
+}
